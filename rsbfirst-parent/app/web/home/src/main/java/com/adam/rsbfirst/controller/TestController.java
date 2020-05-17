@@ -26,6 +26,6 @@ public class TestController {
         TestUtil.testUtil();
         testManager.testManager();
         System.out.println("testController");
-        return "{}";
+        return "{123}";
     }
 }
