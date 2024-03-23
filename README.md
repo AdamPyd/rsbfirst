@@ -1,6 +1,11 @@
 # rsbfirst
 my first project built with react and springboot
 
+however, this project still has some problems to solve，such as:
+  - package
+  - web-side to server-side
+        - 2024-03-23
+
 # 步骤：
 # 1、建立 springboot 多模块项目
 # 参考：https://blog.csdn.net/zcf980/article/details/83040029
